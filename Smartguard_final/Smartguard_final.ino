@@ -8,8 +8,8 @@
 #define LIGHT_PIN 26
 #define BUZZER_PIN 27
 
-const char* ssid = "SECE-WIFI-B_Block";
-const char* password = "dukannst";
+const char* ssid = "xxxxx";
+const char* password = "xxxxx";
 
 WebServer server(80);
 
@@ -198,3 +198,4 @@ void loop() {
 
   delay(500);
 }
+
